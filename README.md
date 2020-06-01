@@ -6,3 +6,4 @@
 2. Bootstrap venv: `python -m venv venv`
 3. Activate venv: `source venv/bin/activate` (or, on Windows: `.\venv\Scripts\activate`)
 4. Install dependencies: `pip install -r requirements.txt`
+5. Execute via `python -m signal_11`
